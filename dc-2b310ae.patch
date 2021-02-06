@@ -1,0 +1,34 @@
+From 2b310ae9425001e13f80bbe9ff9dad39a7e07ad4 Mon Sep 17 00:00:00 2001
+From: Ricky <lousyfisherman36@gmail.com>
+Date: Fri, 5 Feb 2021 22:40:58 -0800
+Subject: [PATCH] dc
+
+---
+ Repositoriespod "youtube-ios-player-helper", "~> x.y.z"/youtube-ios-player-helper-1.0.2/clipboard.txt | 1 +
+ Repositoriespod "youtube-ios-player-helper", "~> x.y.z"/youtube-ios-player-helper-1.0.2/metadata.json | 4 ++++
+ 2 files changed, 5 insertions(+)
+ create mode 100644 Repositoriespod "youtube-ios-player-helper", "~> x.y.z"/youtube-ios-player-helper-1.0.2/clipboard.txt
+ create mode 100644 Repositoriespod "youtube-ios-player-helper", "~> x.y.z"/youtube-ios-player-helper-1.0.2/metadata.json
+
+diff --git "a/Repositoriespod \"youtube-ios-player-helper\", \"~> x.y.z\"/youtube-ios-player-helper-1.0.2/clipboard.txt" "b/Repositoriespod \"youtube-ios-player-helper\", \"~> x.y.z\"/youtube-ios-player-helper-1.0.2/clipboard.txt"
+new file mode 100644
+index 0000000..9abaa63
+--- /dev/null
++++ "b/Repositoriespod \"youtube-ios-player-helper\", \"~> x.y.z\"/youtube-ios-player-helper-1.0.2/clipboard.txt"
+@@ -0,0 +1 @@
++.github/workflows/google.yml
+\ No newline at end of file
+diff --git "a/Repositoriespod \"youtube-ios-player-helper\", \"~> x.y.z\"/youtube-ios-player-helper-1.0.2/metadata.json" "b/Repositoriespod \"youtube-ios-player-helper\", \"~> x.y.z\"/youtube-ios-player-helper-1.0.2/metadata.json"
+new file mode 100644
+index 0000000..bc97891
+--- /dev/null
++++ "b/Repositoriespod \"youtube-ios-player-helper\", \"~> x.y.z\"/youtube-ios-player-helper-1.0.2/metadata.json"
+@@ -0,0 +1,4 @@
++### ##> {"version": 1, "backdrop": {"visible": false, "settings": {"filename": "paper-texture", "rgb": 16777215, "kind": "builtin"} }, "scale": 3, "width": 896, "orientation": 8, "timelapseEnabled": false, "layers": [{"opacity": 1, "hidden": false, "hasContent": false, "filename": "Layer100.png", "id": 100}, {"hasContent": false, "hidden": false, "opacity": 1, "id": 101, "filename": "Layer101.png "}, {" hasContent ": false," opacity ": 1," filename ":" Layer102.png "," hidden ": false," id ": 102}, {" opacity ": 1," hidden ": false, "id": 103, "hasContent": false, "filename": "Layer103.png"}, {"hasContent": false, "hidden": false, "opacity": 1, "filename": "Layer104 .png "," id ": 104}]," underlay ": {" orientation ": 1," settings ": {" subdivisions ": 0," kind ":" grid "," spacing ": 40}," intensity ": 0," visible ": false}," height ": 414," currentLayerIndex ": 0}
++
++Jan 29, 2021
++11:30:23 AM
+\ No newline at end of file
+--
+libgit2 1.0.1
+
